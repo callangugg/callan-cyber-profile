@@ -1,16 +1,20 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
+## 👋 Hi, I'm Callan Guggenheim
+
+## About Me
+I'm a cybersecurity student at The University of Texas at San Antonio, taking IS 1003. I'm building practical skills through hands-on class labs. I also work as a Shift Lead at Walgreens.
+
+## ⚒️ Skills I'm Practicing
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+- **Git and GitHub:** creating repositories, saving commits, working with branches, and merging pull requests.
+- **SSH:** creating a key pair and connecting securely to GitHub.
+- **macOS Terminal:** navigating folders and creating and reading files.
+- **Linux:** setting up and using a Kali Linux virtual machine for class.
+
+## 🎯 Interests
+I'm exploring cybersecurity through class projects that help me understand computer systems, practice Linux, and manage changes with Git.
+
+## 🔗 Links
+- [GitHub](https://github.com/callangugg)
+- [LinkedIn](https://www.linkedin.com/in/callan-guggenheim-82200a203)
